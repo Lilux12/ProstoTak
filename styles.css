@@ -1,0 +1,39 @@
+/* Заголовок */
+.title {
+  font-size: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/* Таблица */
+.game-table {
+  border-collapse: collapse;
+  border: 1px solid lightgrey;
+  margin: 10px;
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+}
+
+.game-table td {
+  padding: 5px;
+  border: 1px solid lightgrey;
+}
+
+/* Первая строка (заголовок) */
+.header-row {
+  background-color: olive;
+  color: white;
+}
+
+/* Кофейные ячейки */
+.coffee-cell {
+  background-color: burlywood;
+  color: black;
+}
+
+/* Белые ячейки */
+.white-cell {
+  background-color: white;
+  color: black;
+}
